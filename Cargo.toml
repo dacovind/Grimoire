@@ -1,0 +1,9 @@
+[package]
+name = "grimoire"
+version = "0.0.1"
+authors = ["dac <dacvin@gmail.com>"]
+edition = "2019"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
